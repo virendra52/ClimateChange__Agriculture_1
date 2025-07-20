@@ -6,39 +6,39 @@ This repository contains an interactive **Power BI Dashboard** that visualizes a
 
 # Key Metrics
 
-- Average Temperature:** 152.4K (indicative scale)
-- Crop Types Covered:** 10,000+
-- Total Precipitation:** 16.12 Million mm
-- Total Economic Impact:** $6.74 Million
-- Average Weather Index:** 4.98
+- Average Temperature: 152.4K (indicative scale)
+- Crop Types Covered: 10,000+
+- Total Precipitation: 16.12 Million mm
+- Total Economic Impact: $6.74 Million
+- Average Weather Index: 4.98
 
 ---
 
 # Dashboard Features
 
-- Soil Health Index by Region**
-- Fertilizer Use by Crop Type** (Barley, Cotton, Corn, Coffee, Fruits)
-- Irrigation Access % by Crop and Region**
-- Crop Yield Comparison** (Wheat, Coffee, Vegetables, Rice, Barley)
-- Total Precipitation by Region**
-- CO₂ Emissions Over Time** (1990–2025)
-- Average Temperature by Region**
-- Interactive Geo-Map**: Crop Types by Country
+- Soil Health Index by Region
+- Fertilizer Use by Crop Type (Barley, Cotton, Corn, Coffee, Fruits)
+- Irrigation Access % by Crop and Region
+- Crop Yield Comparison (Wheat, Coffee, Vegetables, Rice, Barley)
+- Total Precipitation by Region
+- CO₂ Emissions Over Time (1990–2025)
+- Average Temperature by Region
+- Interactive Geo-Map: Crop Types by Country
 
 ---
 
 # Covered Regions and Countries
 
-- Countries:** India, Canada, China
-- Regions:** British Columbia, Central, East, Maharashtra, South, North, Punjab, Victoria, etc.
+- Countries: India, Canada, China
+- Regions: British Columbia, Central, East, Maharashtra, South, North, Punjab, Victoria, etc.
 
 ---
 
 # Tools & Technologies
 
-- Power BI** – for interactive data visualization
+- Power BI – for interactive data visualization
 - DAX – for calculated fields and measures
-- Power Query** – for data transformation
+- Power Query – for data transformation
 - Map Visuals – for geographic crop type insights
 
 ---
