@@ -1,10 +1,10 @@
-# 🌍 Climate Change Impact on Agriculture - Power BI Dashboard
+ # Climate Change Impact on Agriculture - Power BI Dashboard
 
 This repository contains an interactive **Power BI Dashboard** that visualizes and analyzes the global impact of **climate change on agriculture**. The dashboard uses multi-dimensional data to present trends and patterns across various regions and crop types.
 
 ---
 
-## 📊 Key Metrics
+# Key Metrics
 
 - Average Temperature:** 152.4K (indicative scale)
 - Crop Types Covered:** 10,000+
@@ -14,7 +14,7 @@ This repository contains an interactive **Power BI Dashboard** that visualizes a
 
 ---
 
-## 📌 Dashboard Features
+# Dashboard Features
 
 - Soil Health Index by Region**
 - Fertilizer Use by Crop Type** (Barley, Cotton, Corn, Coffee, Fruits)
@@ -27,14 +27,14 @@ This repository contains an interactive **Power BI Dashboard** that visualizes a
 
 ---
 
-## 🌐 Covered Regions and Countries
+# Covered Regions and Countries
 
 - Countries:** India, Canada, China
 - Regions:** British Columbia, Central, East, Maharashtra, South, North, Punjab, Victoria, etc.
 
 ---
 
-## 🛠️ Tools & Technologies
+# Tools & Technologies
 
 - Power BI** – for interactive data visualization
 - DAX – for calculated fields and measures
@@ -43,7 +43,7 @@ This repository contains an interactive **Power BI Dashboard** that visualizes a
 
 ---
 
-## 💡 Project Purpose
+# Project Purpose
 
 To understand the complex relationship between **climate change indicators** (temperature, precipitation, CO₂ emissions) and **agricultural productivity**, including:
 
@@ -56,7 +56,7 @@ This analysis can support **policy makers, researchers, and environmental analys
 
 ---
 
-## 🧠 Learning Outcomes
+# Learning Outcomes
 
 - Hands-on practice with Power BI visuals and dashboards
 - Application of data modeling and advanced visuals
@@ -64,25 +64,25 @@ This analysis can support **policy makers, researchers, and environmental analys
 
 ---
 
-## 📁 Dataset Info
+# Dataset Info
 
 The dataset used simulates real-world data on the **impact of climate change on agriculture**, collected across years (1990 to 2025), crop types, and regions.
 
 ---
 
-## 📷 Dashboard Preview
+# Dashboard Preview
 
 ![Dashboard Screenshot](./ClimateChange_Agriculture_Dashboard.png)
 
 ---
 
-## 🤝 Contributions
+# Contributions
 
 Contributions, suggestions, or feedback are welcome! Feel free to fork the repository and create pull requests.
 
 ---
 
-## 📜 License
+# License
 
 This project is for educational and research purposes only.
 
